@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="LGC" tvg-name="La Gran Comisión" group-title="TV",La Gran Comisión
+https://tv91.hostingnuclear.com:19360/sulamita/sulamita.m3u8
